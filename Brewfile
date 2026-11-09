@@ -35,6 +35,7 @@ brew "kubernetes-cli"
 brew "k9s"
 brew "helm"
 brew "helmfile"
+brew "gh"
 
 # ── Languages & Runtimes ─────────────────────────────────────
 brew "nvm"
